@@ -1,6 +1,6 @@
 body{
     background-color: rgb(231, 217, 237);
-    text-align: right;
+    text-align: left;
    }
    h1 {
        font-style: italic;
@@ -12,4 +12,5 @@ body{
    
    .imagem {
        width: 70%;
+       text-align: center;
    }
