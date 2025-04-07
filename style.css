@@ -4,12 +4,12 @@ body{
    }
    h1 {
        font-style: italic;
-       color: rgb(14, 10, 12);
+       color: rgb(27, 165, 0);
    }
    h2 {
-       color: rgb(5, 100, 68);
+       color: rgb(42, 207, 10);
    }
    
    .imagem {
-       width: 50%;
+       width: 70%;
    }
