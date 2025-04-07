@@ -1,4 +1,15 @@
 body{
-    background:color(srgb   white)
-}
-h1{font ;}
+    background-color: rgb(231, 217, 237);
+    text-align: center;
+   }
+   h1 {
+       font-style: italic;
+       color: rgb(14, 10, 12);
+   }
+   h2 {
+       color: rgb(5, 100, 68);
+   }
+   
+   .imagem {
+       width: 50%;
+   }
