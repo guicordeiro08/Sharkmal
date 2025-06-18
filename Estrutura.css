@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(230, 230, 230); 
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    color: rgb(0, 0, 0); 
+    font-size: larger;
+}
+
+h2 {
+    color: rgb(139, 0, 0); 
+    font-weight: 200;
+}
+
+.imagem {
+    width: 50%;
+}
+
+.lista {
+    text-align: left;
+    color: rgb(50, 50, 50); 
+}
+
+.pizza {
+    color: darkred; 
+}
